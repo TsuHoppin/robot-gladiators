@@ -1,0 +1,1 @@
+window.alert("THIS IS AN ALERT JAVA SCRIPT RUNS");
